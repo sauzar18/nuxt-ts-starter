@@ -1,4 +1,4 @@
-# sr-campaign-whiteday2020
+# nuxt-ts-starter
 
 > My supreme Nuxt.js project
 
@@ -20,5 +20,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-# sr-campaign-whiteday2020
 # nuxt-ts-starter

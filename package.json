@@ -15,7 +15,7 @@
     "@nuxt/typescript-runtime": "^0.3.9",
     "@nuxtjs/axios": "^5.9.5",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.11.0",
     "nuxt-property-decorator": "^2.5.1",
     "sass-loader": "^8.0.2"
